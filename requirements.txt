@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-groq
+pydantic
+python-dotenv
+arxiv
+pymupdf
