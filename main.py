@@ -24,7 +24,7 @@ from prompts import paper_analysis_prompt, comparison_prompt
 
 # --- CONFIGURATION ---
 MAX_PAPERS = 3
-MAX_CONTENT_CHARS = 6000
+MAX_CONTENT_CHARS = 5000
 DEFAULT_TOPIC = "retrieval augmented generation"
 
 
