@@ -8,7 +8,7 @@ AI-powered research paper analyzer - workshop edition.
 # 1. Create virtual environment
 uv venv
 source .venv/bin/activate  # Mac/Linux
-# .venv\Scripts\Activate.ps1  # Windows
+.venv\Scripts\Activate.ps1  # Windows
 
 # 2. Install dependencies
 uv pip install -r requirements.txt
