@@ -81,6 +81,7 @@ def get_llm():
     #
     # Use these parameters:
     #   model="llama-3.3-70b-versatile"
+    #   api_key=os.getenv("GROQ_API_KEY"),
     #   temperature=0  (makes output deterministic/reproducible)
     #
     # YOUR CODE HERE
